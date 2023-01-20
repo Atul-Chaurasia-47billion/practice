@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is in branch ankit
 
+=======
+this is first line
+>>>>>>> main
