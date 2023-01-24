@@ -107,13 +107,13 @@ ___
 ___
 ## 13. Task List
 > For creating task list we write in such format   
-> - [ ] Task1  
-> - [ ] Task2  
+> - [*] Task1  
+> - [*] Task2  
 > - [ ] Task3  
 
 >For Example-
->* [ ]Task1  
->* [ ]Task2  
+>* [*]Task1  
+>* [*]Task2  
 >* [ ]Task3   
 
 ___
